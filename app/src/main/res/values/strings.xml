@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CircleLab1</string>
+
+    <string name="hint_edt_radius">Radius</string>
+    <string name="btn_solve">Solve</string>
+
+    <string name="textview_perimeter">The perimeter of this circle is: </string>
+    <string name="textview_area">The area of this circle is: </string>
+</resources>
